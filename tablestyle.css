@@ -1,0 +1,26 @@
+body { font-family: 'DejaVu Sans Condensed'; font-size: 11pt;  }
+h2,h3,h4{
+	font-weight:normal;
+}
+table {
+	font-family: 'DejaVu Sans Condensed'; font-size: 9pt; line-height: 1.2; 
+	margin-top: 2pt; margin-bottom: 5pt;
+	border-collapse: collapse; 
+	}
+thead { vertical-align: bottom; }
+tfoot { vertical-align: top; }
+thead td { font-weight: bold; }
+tfoot td { font-weight: bold; }
+th {	 
+	vertical-align: top; 
+	padding-left: 2mm; 
+	padding-right: 2mm; 
+	padding-top: 0.5mm; 
+	padding-bottom: 0.5mm; 
+ }
+td {	padding-left: 2mm; 
+	vertical-align: top; 
+	padding-right: 2mm; 
+	padding-top: 0.5mm; 
+	padding-bottom: 0.5mm;
+ }
